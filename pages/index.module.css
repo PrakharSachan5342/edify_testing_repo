@@ -1,0 +1,25 @@
+.desktop1Child {
+  position: absolute;
+  top: 148px;
+  left: 401px;
+  background-color: #01252e;
+  filter: blur(200px);
+  width: 638px;
+  height: 303px;
+}
+.edify {
+  position: absolute;
+  top: 218px;
+  left: 605px;
+}
+.desktop1 {
+  position: relative;
+  background-color: #170202;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 97.6px;
+  color: #01ffe5;
+  font-family: var(--font-inter);
+}
